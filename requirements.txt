@@ -11,6 +11,7 @@ python-dotenv>=0.5.1
 scikit-learn
 pandas
 numpy
+seaborn
 streamlit
 mlflow
 dvc
@@ -21,3 +22,5 @@ catboost
 pymongo
 ipykernel
 joblib
+evidently
+dagshub
